@@ -1,2 +1,2 @@
-# Recursive-Backtracker
-Maze Generator
+# Maze Generator
+Coded in Java
